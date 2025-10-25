@@ -14,11 +14,11 @@ date: 2019-09-21 23:21:36
 |   nickname    |               fly6022 / KuriCL            |
 |    gender     |                👦 (he/him)                |
 |   MBTI~16~    |                 `INFP-T`                  |
-|     tags      |     `Coder`, `航海技术`, `业余无线电`       |
+|     tags      |     `Coder`, `🚢`, `业余无线电`       |
 | constellation |              ♋ (6.22-7.22)               |
 |   location    |             `Nanjing, China`              |
 |   hometown    |             `Tangshan, China`             |
-|     code      |       `JavaScript`, `Python`, `C#`        |
+|     code      |       `JavaScript`, `Python`, `C`        |
 |   callsign    | [`BA4RKW`](https://www.qrz.com/db/BA4RKW) |
 
 ### 🚀 任务清单
@@ -44,9 +44,9 @@ date: 2019-09-21 23:21:36
 - 📱 `REDMI K80 PRO (12GB + 512GB)` + `OnePlus 7 (12GB + 256GB)`
 - 🗃️ `Raspberry Pi Model 4B (4GB)`
 - 🎧 `Razer Kraken 7.1 v2 (Black)`
-- ⌨️ `Logitech K380`
+- ⌨️ `Logitech K380` + `A4tech OP520SU`
 - ✒️ `HERO 616` + `PILOT 88G` + `鸵鸟555`
-- 📻 `Quansheng UV-K6`
+- 📻 `Quansheng UV-K6` + `RTL-SDR BLOG V4`
 
 #### 🚩 目标
 
